@@ -31,12 +31,6 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-`requirements.txt`:
-
-```
-requests
-```
-
 ## 1. Create a Telegram bot and get the chat ID
 
 1. In Telegram open **@BotFather**, send `/newbot`, choose a display name and a username ending in `bot`. BotFather replies with the **token** (looks like `123456789:AA...`). Keep it secret.
