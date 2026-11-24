@@ -24,7 +24,7 @@ On every run the script fetches today's and tomorrow's schedule, computes a fing
 ## Install
 
 ```bash
-git clone https://github.com/<your-user>/yasno-outage-bot.git
+git clone https://github.com/avidei/yasno-outage-bot.git
 cd yasno-outage-bot
 python3 -m venv .venv
 source .venv/bin/activate
