@@ -1,0 +1,8 @@
+.venv/
+.idea/
+__pycache__/
+config.json
+hash_*.txt
+bot.log
+kyiv_streets.json
+kyiv_yasno_groups.csv
